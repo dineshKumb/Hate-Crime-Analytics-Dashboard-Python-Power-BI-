@@ -62,7 +62,6 @@ The goal is to identify crime patterns, trends over time, demographic impacts, a
 ---
 
 ## 📊 Dashboard Screenshots
-*(Add images to make the project look complete)*  
 - Trend charts  
 - Crime category bars  
 - Heatmaps  
